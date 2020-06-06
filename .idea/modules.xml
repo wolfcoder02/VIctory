@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacosdemo.iml" filepath="$PROJECT_DIR$/nacosdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plartform_fegin/plartform_fegin.iml" filepath="$PROJECT_DIR$/plartform_fegin/plartform_fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-nacos-consumer/spring-cloud-nacos-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-nacos-consumer/spring-cloud-nacos-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-nacos-provider/spring-cloud-nacos-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-nacos-provider/spring-cloud-nacos-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-nacos-server/spring-cloud-nacos-server.iml" filepath="$PROJECT_DIR$/spring-cloud-nacos-server/spring-cloud-nacos-server.iml" />
+    </modules>
+  </component>
+</project>
